@@ -1,3 +1,6 @@
+<img width="1260" height="622" alt="ana-ekran png" src="https://github.com/user-attachments/assets/bd6e9fec-d836-45ce-a9e9-d944a91a379c" />
+<img width="1266" height="621" alt="arama png" src="https://github.com/user-attachments/assets/7fc74c02-fca9-4dac-976c-b6d6bca11f05" />
+<img width="1258" height="618" alt="kritik-stok png" src="https://github.com/user-attachments/assets/e69a7666-099b-48aa-951f-0d317cc70f2c" />
 🍦 DepoMetre - Akıllı Envanter Yönetim Sistemi
 
 DepoMetre, özellikle dondurma dükkanları gibi hızlı devir yapan işletmeler için geliştirilmiş, stok takibini dijitalleştiren ve karar destek mekanizması sunan bir masaüstü yazılımıdır.
